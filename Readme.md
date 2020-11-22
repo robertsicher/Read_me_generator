@@ -1,5 +1,5 @@
 
-  # Readme Generator
+  # Readme
 
 
   ## Table of contents:
@@ -21,14 +21,14 @@
   [License](##license)
   
   ## Description
-  A nodejs readme generator app to make high quality readme's
+  A nodejs application to create high quality readme's
   
   
   ## Installation 
   init npm, install inquirer 
   
   ## Usage
-  Make sure all info entered is correct to create accurate URL's
+  Make sure all info is entered accurately in order to generate the correct HTML's
   
   See it in action:
   https://robertsicher.github.io/Read_me_generator/
@@ -44,13 +44,11 @@
 
   ## License
   
-      ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)(https://opensource.org/licenses/MIT) 
+      [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
     
       Copyright (c) 2020
     
       MIT License
-
-      Copyright (c) //[year] [fullname]//
       
       Permission is hereby granted, free of charge, to any person obtaining a copy
       of this software and associated documentation files (the "Software"), to deal
